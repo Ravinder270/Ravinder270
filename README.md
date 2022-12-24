@@ -5,13 +5,7 @@
 
 - 🔭 I’m currently working on **Blogway**
 
-- 👨‍💻 All of my projects are available at [""Portfolio link"]
-
 - 💬 Ask me about **HTML, CSS , JavaScript , MongoDb, ReactJs, Python.**
-
-- 📫 How to reach me **ravinder_m210659ca@nitc.ac.in**
-
-- 📄 Know about my experiences [""Resume link""]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
