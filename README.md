@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Blogway**
 
-- 💬 Ask me about **HTML, CSS , JavaScript , MongoDb, ReactJs, Python.**
+- 💬 Ask me anything about **HTML, CSS , JavaScript , MongoDb, ReactJs, Python.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
